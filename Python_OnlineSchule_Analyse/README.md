@@ -76,18 +76,6 @@ The dataset is not included in this repository due to data privacy restrictions.
 
 ---
 
-## Project Structure
-Python_OnlineSchule_Analyse
-│
-├── Notebooks
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_eda.ipynb
-│ └── 03_analysis.ipynb
-│
-└── README.md
-
----
-
 ## Analysis Workflow
 
 ### Data Cleaning

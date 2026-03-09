@@ -87,7 +87,7 @@ All Power BI and Tableau dashboards are fully interactive.
 🔗[View on Google Drive](https://drive.google.com/file/d/1xczAx--06lJwL2pb_eVHfGGcQJ4M1-uy/view?usp=sharing)
 
 📊 **Online School Business Analysis**  
-🔗 [View on Google Drive] (https://drive.google.com/file/d/1Lfq2zer4fEv7FsCrPDaY8qgB-xCQdO9a/view?usp=sharing)
+🔗 [View on Google Drive](https://drive.google.com/file/d/1Lfq2zer4fEv7FsCrPDaY8qgB-xCQdO9a/view?usp=sharing)
 
 ---
 
@@ -102,6 +102,7 @@ All Power BI and Tableau dashboards are fully interactive.
 
 🏥 **Clinic Performance Evaluation Dashboard**  
 🔗[View on Google Sheets](https://docs.google.com/spreadsheets/d/1FFL6Yh3vR3niRdwH6FJxPIThAHHnJnRK5cVhs2iTrgw/edit?usp=sharing)
+
 ---
 
 # 📑 Project Presentations
